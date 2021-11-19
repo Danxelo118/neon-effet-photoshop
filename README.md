@@ -45,5 +45,5 @@ comment faire un effet néon sur photoshop
 ![1](media/capture17.PNG)
 17. Augmenter la taille du néon avec ctrl+t
 ![1](media/capture18.PNG)
-18. Présentation finale
+18. Résultat final
 ![1](media/cc.JPG)
