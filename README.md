@@ -29,6 +29,7 @@ comment faire un effet néon sur photoshop
 ![1](media/capture10.PNG)
 
 11. Augmenter la taille
+
 ![1](media/capture11.PNG)
 
 12. Sélectionner superposition
