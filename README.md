@@ -25,6 +25,7 @@ comment faire un effet néon sur photoshop
 ![1](media/capture9.5.PNG)
 
 10. Grossir à 6 px
+
 ![1](media/capture10.PNG)
 
 11. Augmenter la taille
