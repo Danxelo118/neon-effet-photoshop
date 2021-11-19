@@ -12,11 +12,10 @@ comment faire un effet néon sur photoshop
 9. Mettre l'opacité à 50
 10. Chosir uen coueleur
 11. Le grossir à 6 px
-12. Augmenter la densité
+12. Augmenter la taille
 13. Sélectionner superposition
-14. Augmenter opacité
-15. Sélectionner lueur interne
-16. Sélectionner produit
-17. Chosiir une couleur
-18. Mettre opacité à 50 px
-19. Augmenter la taille
+14. Sélectionner lueur interne
+15. Sélectionner produit
+16. Chosiir une couleur
+17. Mettre opacité à 50 px
+18. Augmenter la taille
