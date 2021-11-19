@@ -20,7 +20,3 @@ comment faire un effet néon sur photoshop
 17. Chosiir une couleur
 18. Mettre opacité à 50 px
 19. Augmenter la taille
-
-
-
-```html
