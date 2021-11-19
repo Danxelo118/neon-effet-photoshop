@@ -33,7 +33,7 @@ comment faire un effet néon sur photoshop
 ![1](media/capture13.PNG)
 14. Sélectionner produit
 ![1](media/capture14.PNG)
-15. Chosiir une couleur
+15. Choisir une couleur
 ![1](media/capture15.PNG)
 ![1](media/capture16.PNG)
 16. Mettre opacité à 50 px
