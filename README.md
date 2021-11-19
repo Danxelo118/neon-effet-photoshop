@@ -5,7 +5,7 @@ comment faire un effet néon sur photoshop
 1. Sélectionner l'outil de plume
 ![1](media/capture1.png)
 2. Choisir le mode forme
-
+![1](media/cc.jpeg)
 3. Faire une forme sur l'image de la calque
 
 4. Sélectionner vider le fond
